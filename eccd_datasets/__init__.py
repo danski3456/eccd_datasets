@@ -7,6 +7,6 @@ from eccd_datasets.m5 import load_m5
 from eccd_datasets.groceries import load_images
 
 __author__ = "Diego Kiedanski"
-__version__ = "0.1"
+__version__ = "0.1.1"
 
 
